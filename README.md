@@ -1,4 +1,5 @@
 INTRODUCTION TO THE PROJECT !
+
 👋A Python data analytics project on jupyter notebook to analyze any stock, perform hypothesis tests, and make a regression model along with     
    visualizations.
   -Applied price predictions and forecasting, checking normalities, checking if the price follows a random walk, some descriptive statistics 
